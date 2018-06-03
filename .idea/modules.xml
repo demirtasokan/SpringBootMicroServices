@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MicroservicesWithSpringBoot.iml" filepath="$PROJECT_DIR$/MicroservicesWithSpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservicesfirstdemo/microservicesfirstdemo.iml" filepath="$PROJECT_DIR$/.idea/modules/microservicesfirstdemo/microservicesfirstdemo.iml" group="microservicesfirstdemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservicesfirstdemo/microservicesfirstdemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/microservicesfirstdemo/microservicesfirstdemo_main.iml" group="microservicesfirstdemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservicesfirstdemo/microservicesfirstdemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/microservicesfirstdemo/microservicesfirstdemo_test.iml" group="microservicesfirstdemo" />
+    </modules>
+  </component>
+</project>
